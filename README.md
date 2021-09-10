@@ -98,6 +98,8 @@ To finish off, let's look at individual referees. More specifically let's look a
 
 There is some variability for per 90 metrics but it's quite low variance. One could intepret this as saying most referees like to give out fouls, yellow and red cards in similar amounts. For the difference metrics, there are some striking points but again I'll leave the interpretation to you as this is in no way proof of causality.
 
-Conclusion
+## Conclusion
 
 All in all, I tried to minimize the number of inferences I made based on the data. My aim was to transmit these visualizations to others and make no personal interpretation that was not backed by statistical tests.
+
+The Tableau file can be found in the src folder.
