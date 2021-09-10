@@ -15,7 +15,7 @@ Well today, we're going to dive deeper in the data, and hopefully we can confirm
 
 In this analysis I processed data from the 2000-2001 season to the 2020-2021, inclusive. Football data is absolutely a nightmare to find, and if you're wondering why some statistics are never looked at, such as number of tackles, well it's simply because it's behind a paywall or doesn't exist.
 
-The data I used had the following format. Each row was a game played. The columns were: Home team, Away Team, Winning Team, Referee, Home Fouls, Home Yellows, Home Reds, Away Fouls, Away Yellows, Away Reds and that's it. It's not a lot, but even from these we can find some interesting stuff. I retrieved data for a season by season basis from https://www.football-data.co.uk/. My own merged dataset can be found in this repository under the name fulldata_PL.csv
+The data I used had the following format. Each row was a game played. The columns were: Home team, Away Team, Winning Team, Referee, Home Fouls, Home Yellows, Home Reds, Away Fouls, Away Yellows, Away Reds and that's it. It's not a lot, but even from these we can find some interesting stuff. I retrieved data for a season by season basis from https://www.football-data.co.uk/. My own merged and cleaned dataset can be found in this repository in the data folder and named fulldata_PL.csv. Note that it is arranged so that each game is represented twice but with the home teams and away teams changing.
 
 Also I would like to point out that the main point of this analysis is to provide visualizations for the refereeing data and in no way attempts to prove causality and isolate confounding factors. Make inferences carefully.
 
