@@ -84,7 +84,7 @@ There are some interesting outliers, but again, these could be due to random err
 
 ## III. The variability of referees
 
-To finish off, let's look at individual referees. More specifically let's look at the Fouls per 90 minutes, Yellows per 90 minutes and Red per 90 minutes metrics as well as the FpY_A - FpY_B difference (remember A is the home team and B is the away team) for referees in the premier league. Meaning that the higher those values are, the more the referee is biased towards home teams. The lower, the less biased the referee is towards the home team. Obviously there could be other explanations than the referee handling pressure from fans poorly. I only included referees that have refereed at least 100 matches.
+To finish off, let's look at individual referees. More specifically let's look at the Fouls per 90 minutes, Yellows per 90 minutes and Red per 90 minutes metrics as well as the FpY_A - FpY_B difference (remember A is the home team and B is the away team) for referees in the premier league. Meaning that the higher those values are, the more the referee is biased towards home teams. The lower, the less biased the referee is towards the home team. Obviously there could be other explanations than the referee handling pressure from fans poorly. I only included referees that have refereed at least 50 matches.
 
 ![view](Ref_Fp90.PNG)
 
