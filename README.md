@@ -102,4 +102,4 @@ There is some variability for per 90 metrics but it's quite low variance. One co
 
 All in all, I tried to minimize the number of inferences I made based on the data. My aim was to transmit these visualizations to others and make no personal interpretation that was not backed by statistical tests.
 
-The Tableau workbook can be found in the src folder.
+The Tableau workbook can be found in the src folder. Just download the data and the workbook, once the workbook opens simply edit the connection and input the fulldata_PL.csv path and you're good to go.
